@@ -82,7 +82,7 @@
     "categories": [
       "frameworks"
     ],
-    "description": "Microsoft's conversational multi-agent framework; pioneered multi-agent group chat — continued by the community as AG2."
+    "description": "Microsoft's conversational multi-agent framework; pioneered multi-agent group chat \u2014 continued by the community as AG2."
   },
   {
     "id": "ag2",
@@ -483,7 +483,7 @@
     "categories": [
       "platforms"
     ],
-    "description": "Visual LangChain/LlamaIndex agent builder; sunsetting — do not build on it."
+    "description": "Visual LangChain/LlamaIndex agent builder; sunsetting \u2014 do not build on it."
   },
   {
     "id": "claude-code",
@@ -735,7 +735,7 @@
     "categories": [
       "computer-use"
     ],
-    "description": "Screenshot→coordinate→action API tool loop; Docker Linux reference environment."
+    "description": "Screenshot\u2192coordinate\u2192action API tool loop; Docker Linux reference environment."
   },
   {
     "id": "claude-in-chrome",
@@ -868,7 +868,7 @@
     "categories": [
       "orchestration"
     ],
-    "description": "Lightweight educational multi-agent handoff pattern; archived reference implementation — superseded by the OpenAI Agents SDK."
+    "description": "Lightweight educational multi-agent handoff pattern; archived reference implementation \u2014 superseded by the OpenAI Agents SDK."
   },
   {
     "id": "deerflow",
@@ -1052,7 +1052,7 @@
   },
   {
     "id": "tau-bench",
-    "name": "τ-bench",
+    "name": "\u03c4-bench",
     "url": "https://github.com/sierra-research/tau-bench",
     "github": "sierra-research/tau-bench",
     "license": null,
@@ -1144,7 +1144,7 @@
     "categories": [
       "memory"
     ],
-    "description": "Managed memory on a temporal knowledge graph; community edition deprecated — enterprise continues on the Graphiti engine."
+    "description": "Managed memory on a temporal knowledge graph; community edition deprecated \u2014 enterprise continues on the Graphiti engine."
   },
   {
     "id": "graphiti",
@@ -1229,11 +1229,11 @@
     "categories": [
       "observability"
     ],
-    "description": "Proxy-based LLM observability; in maintenance mode since March 2026 — avoid for greenfield."
+    "description": "Proxy-based LLM observability; in maintenance mode since March 2026 \u2014 avoid for greenfield."
   },
   {
     "id": "aws-marketplace-ai-agents",
-    "name": "AWS Marketplace — AI Agents & Tools",
+    "name": "AWS Marketplace \u2014 AI Agents & Tools",
     "url": "https://aws.amazon.com/bedrock/agentcore/",
     "github": null,
     "license": "commercial",
@@ -1377,5 +1377,29 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "x402",
+    "name": "x402",
+    "url": "https://www.x402.org",
+    "github": "coinbase/x402",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "protocols"
+    ],
+    "description": "HTTP 402 payment-required protocol for pay-per-request APIs and agent services."
+  },
+  {
+    "id": "clarity",
+    "name": "Clarity",
+    "url": "https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899",
+    "github": null,
+    "license": null,
+    "status": "active",
+    "categories": [
+      "marketplaces"
+    ],
+    "description": "Base mainnet x402 AI research API with free discovery and paid USDC report/chat."
   }
 ]
