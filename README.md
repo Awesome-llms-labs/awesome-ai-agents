@@ -147,6 +147,7 @@ The standards that let agents talk to tools, to each other, and to frontends.
 - [AG-UI](https://github.com/ag-ui-protocol/ag-ui) `OSS` — Stream agent state, events, and human interaction into frontends; created by CopilotKit.
 - [ANP (Agent Network Protocol)](https://agent-network-protocol.com/) `OSS` — Decentralized agent identity, discovery, and encrypted collaboration (`did:wba`); W3C community group.
 - [AP2 (Agent Payments Protocol)](https://ap2-protocol.org) — Scoped, revocable payment authorization for agentic commerce; Google/Stripe-backed mandate protocol.
+- [x402](https://www.x402.org) `OSS` — HTTP 402 payment-required protocol for pay-per-request APIs and agent services (USDC on Base and other chains).
 - [AGENTS.md](https://github.com/agentsmd/agents.md) `OSS` — Portable repo-guidance convention for coding agents; read by OpenCode, Crush, Cline, Cursor, and others.
 
 ## Evals & Benchmarks
@@ -187,6 +188,7 @@ Tracing, debugging, and evaluating agents in development and production.
 Where agents and agent capabilities get discovered, bought, and distributed.
 
 - [AWS Marketplace — AI Agents & Tools](https://aws.amazon.com/bedrock/agentcore/) — Buy and deploy agents; Bedrock AgentCore-deployable with PAYG, contracts, and private offers.
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) — Base mainnet x402 AI research API; free discovery; paid USDC report and chat for agents.
 - [Salesforce AgentExchange](https://www.salesforce.com/agentforce/agentexchange/?bc=OTH) — Partner agent marketplace for the Salesforce ecosystem.
 - [Microsoft Copilot Agent Store](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/) — Enterprise procurement for Copilot agents inside Microsoft 365.
 - [Anthropic Agent Skills](https://agentskills.io) — Open SKILL.md capability-pack spec and ecosystem.
