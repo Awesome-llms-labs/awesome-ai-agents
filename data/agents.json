@@ -450,6 +450,17 @@
     "description": "Hosted and self-hosted agent operating system behind the Agno framework."
   },
   {
+    "id": "inteldo",
+    "name": "Inteldo",
+    "url": "https://inteldo.com/",
+    "github": null,
+    "license": "commercial",
+    "status": "active",
+    "categories": [
+      "platforms"
+    ],
+    "description": "Business research platform using specialist agents to investigate connected data and compile evidence-backed reports."
+  },
     "id": "livekit-agents",
     "name": "LiveKit Agents",
     "url": "https://github.com/livekit/agents",
