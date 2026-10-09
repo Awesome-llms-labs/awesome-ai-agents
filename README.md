@@ -77,6 +77,7 @@ Hosted platforms for building, running, and managing agents — low-code to full
 - [n8n](https://n8n.io/) `OSS` — Workflow automation with native AI-agent nodes and MCP support; self-hostable.
 - [Activepieces](https://github.com/activepieces/activepieces) `OSS` — Open-source AI workflow automation; MCP-server-first automation for agents.
 - [Agno AgentOS](https://www.agno.com/) — Hosted and self-hosted agent operating system behind the Agno framework.
+- [Inteldo](https://inteldo.com/) — Business research platform using specialist agents to investigate connected data and compile evidence-backed reports.
 - [LiveKit Agents](https://github.com/livekit/agents) `OSS` — Real-time voice agent framework on WebRTC; open source with plugin architecture and MCP support.
 - [Zapier Agents](https://zapier.com/agents) — Custom AI teammates inside Zapier automations, grounded in company knowledge.
 - [Flowise](https://github.com/FlowiseAI/Flowise) `OSS` `(sunsetting)` — Visual LangChain/LlamaIndex agent builder; sunsetting — do not build on it.
