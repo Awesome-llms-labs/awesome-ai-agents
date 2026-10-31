@@ -199,6 +199,7 @@ Keeping agents safe: prompt-injection defense, AI firewalls, model scanning, and
 - [Robust Intelligence](https://robustintelligence.com) — AI firewall and automated red teaming. 🔀 **Acquired by Cisco.**
 - [Protect AI](https://protectai.com) — Model scanning and ML supply-chain security. 🔀 **Acquired by Palo Alto Networks.**
 - [NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `OSS` — Programmable, open-source guardrails toolkit (Colang).
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) `OSS` — Open-source scans and runtime policy checks for supported AI coding agents and MCP tools.
 
 ## Agent Sandboxes & Tool Platforms
 

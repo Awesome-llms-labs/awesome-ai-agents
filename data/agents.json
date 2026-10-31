@@ -1331,6 +1331,18 @@
     "description": "Programmable, open-source guardrails toolkit (Colang)."
   },
   {
+    "id": "hol-guard",
+    "name": "HOL Guard",
+    "url": "https://github.com/hashgraph-online/hol-guard",
+    "github": "hashgraph-online/hol-guard",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "security"
+    ],
+    "description": "Local-first security tooling that scans agent assets and checks supported runtime tool actions against policy."
+  },
+  {
     "id": "e2b",
     "name": "E2B",
     "url": "https://e2b.dev",
