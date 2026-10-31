@@ -834,6 +834,18 @@
     "description": "Job-application automation agent; Firefox-based community project."
   },
   {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "github": "vostride/agent-qa",
+    "license": "FSL-1.1-ALv2",
+    "status": "active",
+    "categories": [
+      "computer-use"
+    ],
+    "description": "Web and mobile QA agent with CLI/MCP access, memidex persistent memory, validated self-improvement and reviewable run evidence."
+  },
+  {
     "id": "osworld",
     "name": "OSWorld",
     "url": "https://github.com/xlang-ai/OSWorld",
