@@ -120,6 +120,7 @@ Agents that operate computers the way humans do — clicking, typing, and seeing
 - [Agent S3 (Simular)](https://www.simular.ai/articles/agent-s3) `OSS` — Full-desktop (macOS/Linux/Windows) and Android GUI agent.
 - [OmniParser v2](https://www.microsoft.com/en-us/research/articles/omniparser-v2-turning-any-llm-into-a-computer-use-agent/) `OSS` — Microsoft's vision GUI-grounding module that turns any LLM into a GUI agent; pairs with OmniTool.
 - [AIHawk](https://github.com/feder-cr/AIHawk) `OSS` — Job-application automation agent; Firefox-based community project.
+- [agent-qa](https://vostride.com) `FSL-1.1-ALv2` — Web and mobile QA agent with CLI/MCP access, memidex persistent memory, validated self-improvement and reviewable run evidence.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) `OSS` — Real-computer OS task benchmark/environment across Ubuntu, Windows, and macOS; the standard computer-use benchmark.
 - [AndroidWorld](https://github.com/google-research/android_world) `OSS` — Real Android phone-control benchmark from Google Research.
 
