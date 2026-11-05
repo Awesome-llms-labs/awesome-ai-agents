@@ -1367,6 +1367,18 @@
     "description": "Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira."
   },
   {
+    "id": "cloudbrowser",
+    "name": "Cloudbrowser",
+    "url": "https://cloudbrowser.tv",
+    "github": null,
+    "license": null,
+    "status": "active",
+    "categories": [
+      "sandboxes"
+    ],
+    "description": "Isolated remote Chrome browsers for AI agent workflows, with CDP connections, full desktop Live View, persistent browser files, and profile forks from paused sessions."
+  },
+  {
     "id": "firecracker",
     "name": "Firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
