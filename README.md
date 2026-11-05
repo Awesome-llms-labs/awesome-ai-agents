@@ -207,6 +207,7 @@ Isolated execution for agent code, plus the tool-calling platforms that let agen
 - [E2B](https://e2b.dev) `OSS` — Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes.
 - [Arcade](https://www.arcade.dev) `OSS` — Tool-calling platform with per-user authorization; agents act as the user, not a bot.
 - [Composio](https://composio.dev) `OSS` — Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira.
+- [Cloudbrowser](https://cloudbrowser.tv) — Isolated remote Chrome browsers for AI agent workflows, with CDP connections, full desktop Live View, persistent browser files, and profile forks from paused sessions.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) `OSS` — AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms.
 
 ---
