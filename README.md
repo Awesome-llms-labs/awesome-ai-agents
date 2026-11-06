@@ -205,6 +205,7 @@ Keeping agents safe: prompt-injection defense, AI firewalls, model scanning, and
 Isolated execution for agent code, plus the tool-calling platforms that let agents act in the world.
 
 - [E2B](https://e2b.dev) `OSS` — Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes.
+- [Sandbox0](https://sandbox0.ai) — Managed cloud computers for AI agents with persistent writable filesystems and on-demand compute.
 - [Arcade](https://www.arcade.dev) `OSS` — Tool-calling platform with per-user authorization; agents act as the user, not a bot.
 - [Composio](https://composio.dev) `OSS` — Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) `OSS` — AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms.

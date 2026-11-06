@@ -1343,6 +1343,18 @@
     "description": "Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes."
   },
   {
+    "id": "sandbox0",
+    "name": "Sandbox0",
+    "url": "https://sandbox0.ai",
+    "github": null,
+    "license": null,
+    "status": "active",
+    "categories": [
+      "sandboxes"
+    ],
+    "description": "Managed cloud computers for AI agents with persistent writable filesystems and on-demand compute."
+  },
+  {
     "id": "arcade",
     "name": "Arcade",
     "url": "https://www.arcade.dev",
