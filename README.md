@@ -37,6 +37,7 @@ Libraries and SDKs for building agents — single-agent loops, tool use, and mul
 
 - [LangChain](https://github.com/langchain-ai/langchain) `OSS` — Foundational LLM app framework: chains, prompts, tools, retrievers.
 - [LangGraph](https://langchain-ai.github.io/langgraph/) `OSS` — Graph-based, stateful agent orchestration with checkpointing; supports supervisor, swarm, and hierarchical multi-agent patterns.
+- [LightAgent](https://github.com/wanxingai/LightAgent) `OSS` - Python agent framework with tools, memory, MCP, checkpointed workflows, and opt-in persistent dynamic DAGs with application-owned artifact verification.
 - [LlamaIndex](https://developers.llamaindex.ai/) `OSS` — Data framework for RAG-centric agentic systems; event-driven Workflows.
 - [Haystack](https://github.com/deepset-ai/haystack) `OSS` — Production NLP pipeline framework from deepset for enterprise document-processing agents.
 - [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) `OSS` — Microsoft's enterprise AI orchestrator (C#, Python, Java).
