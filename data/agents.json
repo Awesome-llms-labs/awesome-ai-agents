@@ -25,6 +25,18 @@
     "description": "Graph-based, stateful agent orchestration with checkpointing; supports supervisor, swarm, and hierarchical multi-agent patterns."
   },
   {
+    "id": "lightagent",
+    "name": "LightAgent",
+    "url": "https://github.com/wanxingai/LightAgent",
+    "github": "wanxingai/LightAgent",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "frameworks"
+    ],
+    "description": "Python agent framework with tools, memory, MCP, checkpointed workflows, and opt-in persistent dynamic DAGs with application-owned artifact verification."
+  },
+  {
     "id": "llamaindex",
     "name": "LlamaIndex",
     "url": "https://developers.llamaindex.ai/",
