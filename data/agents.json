@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "orbi",
+    "name": "Orbi",
+    "url": "https://orbi.build/?ref=dir-awesome-llms-labs-awesome-agents",
+    "github": "orbi-build/orbi",
+    "license": "AGPL-3.0",
+    "status": "active",
+    "categories": [
+      "coding"
+    ],
+    "description": "Self-hostable GitHub-issue coding agent with isolated worktrees, independent acceptance review and gated PR merges."
   }
 ]
