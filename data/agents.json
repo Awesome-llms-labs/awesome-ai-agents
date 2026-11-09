@@ -462,6 +462,18 @@
     "description": "Real-time voice agent framework on WebRTC; open source with plugin architecture and MCP support."
   },
   {
+    "id": "lazymind",
+    "name": "LazyMind",
+    "url": "https://github.com/LazyAGI/LazyMind",
+    "github": "LazyAGI/LazyMind",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "platforms"
+    ],
+    "description": "AI Skill Runtime that turns reusable Skills into observable, recoverable workflows with review checkpoints and versioned artifacts."
+  },
+  {
     "id": "zapier-agents",
     "name": "Zapier Agents",
     "url": "https://zapier.com/agents",
