@@ -78,6 +78,7 @@ Hosted platforms for building, running, and managing agents — low-code to full
 - [Activepieces](https://github.com/activepieces/activepieces) `OSS` — Open-source AI workflow automation; MCP-server-first automation for agents.
 - [Agno AgentOS](https://www.agno.com/) — Hosted and self-hosted agent operating system behind the Agno framework.
 - [LiveKit Agents](https://github.com/livekit/agents) `OSS` — Real-time voice agent framework on WebRTC; open source with plugin architecture and MCP support.
+- [LazyMind](https://github.com/LazyAGI/LazyMind) `OSS` — AI Skill Runtime that turns reusable Skills into observable, recoverable workflows with review checkpoints and versioned artifacts.
 - [Zapier Agents](https://zapier.com/agents) — Custom AI teammates inside Zapier automations, grounded in company knowledge.
 - [Flowise](https://github.com/FlowiseAI/Flowise) `OSS` `(sunsetting)` — Visual LangChain/LlamaIndex agent builder; sunsetting — do not build on it.
 
