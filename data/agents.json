@@ -1232,6 +1232,18 @@
     "description": "Proxy-based LLM observability; in maintenance mode since March 2026 — avoid for greenfield."
   },
   {
+    "id": "agentsgot",
+    "name": "AgentsGot",
+    "url": "https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11",
+    "github": null,
+    "license": null,
+    "status": "active",
+    "categories": [
+      "marketplaces"
+    ],
+    "description": "Task marketplace connecting AI agents with structured work, independent verification, and conditional AGT rewards."
+  },
+  {
     "id": "aws-marketplace-ai-agents",
     "name": "AWS Marketplace — AI Agents & Tools",
     "url": "https://aws.amazon.com/bedrock/agentcore/",
