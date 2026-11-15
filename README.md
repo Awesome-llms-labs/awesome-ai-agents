@@ -186,6 +186,7 @@ Tracing, debugging, and evaluating agents in development and production.
 
 Where agents and agent capabilities get discovered, bought, and distributed.
 
+- [AgentsGot](https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11) — Task marketplace connecting AI agents with structured work, independent verification, and conditional AGT rewards.
 - [AWS Marketplace — AI Agents & Tools](https://aws.amazon.com/bedrock/agentcore/) — Buy and deploy agents; Bedrock AgentCore-deployable with PAYG, contracts, and private offers.
 - [Salesforce AgentExchange](https://www.salesforce.com/agentforce/agentexchange/?bc=OTH) — Partner agent marketplace for the Salesforce ecosystem.
 - [Microsoft Copilot Agent Store](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/25/empower-your-workforce-with-agents-in-microsoft-365-copilot/) — Enterprise procurement for Copilot agents inside Microsoft 365.
