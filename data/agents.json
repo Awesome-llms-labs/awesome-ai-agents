@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "axonio",
+    "name": "Axonio",
+    "url": "https://axonio.xyz/",
+    "github": "hackcat29/ClawDB",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "memory"
+    ],
+    "description": "Persistent agent memory with vector and graph retrieval, Git-style memory branching, and MCP access."
   }
 ]

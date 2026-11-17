@@ -172,6 +172,7 @@ How agents remember — short-term context, long-term knowledge, and self-editin
 - [Graphiti](https://github.com/getzep/graphiti) `OSS` — Real-time bi-temporal knowledge-graph engine (powers Zep); hybrid semantic + keyword + graph retrieval.
 - [Letta](https://github.com/letta-ai/letta-code) `OSS` — Stateful agent platform (ex-MemGPT): self-editing memory blocks; Git-backed context.
 - [Cognee](https://www.cognee.ai/) `OSS` — Open-source memory engine; self-hosted knowledge graph via an ECL pipeline.
+- [Axonio](https://github.com/hackcat29/ClawDB) `OSS` — Persistent agent memory with vector and graph retrieval, Git-style memory branching, and MCP access.
 
 ## Agent Observability
 
