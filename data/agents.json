@@ -1123,6 +1123,18 @@
     "description": "Everyday online tasks for AI agents; a 2026 consumer-task benchmark."
   },
   {
+    "id": "evalshift",
+    "name": "EvalShift",
+    "url": "https://github.com/evalshift/evalshift-cli",
+    "github": "evalshift/evalshift-cli",
+    "license": "Apache-2.0",
+    "status": "active",
+    "categories": [
+      "evals"
+    ],
+    "description": "Regression testing for agents across model changes: replays recorded runs on two models and diffs tool calls and outputs."
+  },
+  {
     "id": "mem0",
     "name": "mem0",
     "url": "https://mem0.ai/",
