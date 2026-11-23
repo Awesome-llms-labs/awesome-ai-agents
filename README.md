@@ -162,6 +162,7 @@ How the field measures agents — task success, tool-call accuracy, and real-com
 - [BFCL](https://gorilla.cs.berkeley.edu/leaderboard.html) — Berkeley Function Calling Leaderboard; AST-matched tool-call accuracy at scale.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) — Tool use across thousands of real APIs (ToolLLM).
 - [ClawBench](https://arxiv.org/abs/2604.08523) — Everyday online tasks for AI agents; a 2026 consumer-task benchmark.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) — Regression testing for agents across model changes: replays recorded runs on two models and diffs tool calls and outputs.
 
 ## Agent Memory
 
